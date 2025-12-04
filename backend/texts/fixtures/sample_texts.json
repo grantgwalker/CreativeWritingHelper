@@ -1,0 +1,132 @@
+[
+  {
+    "model": "texts.textexcerpt",
+    "pk": 1,
+    "fields": {
+      "title": "A Tale of Two Cities - Opening",
+      "author": "Charles Dickens",
+      "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+      "writing_type": "narrative",
+      "style": "narrative",
+      "source_work": "A Tale of Two Cities",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "texts.textexcerpt",
+    "pk": 2,
+    "fields": {
+      "title": "Pride and Prejudice - Opening",
+      "author": "Jane Austen",
+      "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.",
+      "writing_type": "narrative",
+      "style": "expository",
+      "source_work": "Pride and Prejudice",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "texts.textexcerpt",
+    "pk": 3,
+    "fields": {
+      "title": "The Great Gatsby - Description",
+      "author": "F. Scott Fitzgerald",
+      "text": "In his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars. At high tide in the afternoon I watched his guests diving from the tower of his raft, or taking the sun on the hot sand of his beach while his two motor-boats slit the waters of the Sound, drawing aquaplanes over cataracts of foam.",
+      "writing_type": "descriptive",
+      "style": "descriptive",
+      "source_work": "The Great Gatsby",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "texts.textexcerpt",
+    "pk": 4,
+    "fields": {
+      "title": "Romeo and Juliet - Dialogue",
+      "author": "William Shakespeare",
+      "text": "JULIET: O Romeo, Romeo! wherefore art thou Romeo? Deny thy father and refuse thy name; Or, if thou wilt not, be but sworn my love, And I'll no longer be a Capulet.\nROMEO: [Aside] Shall I hear more, or shall I speak at this?\nJULIET: 'Tis but thy name that is my enemy; Thou art thyself, though not a Montague.",
+      "writing_type": "dialogue",
+      "style": "dialogue",
+      "source_work": "Romeo and Juliet",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "texts.textexcerpt",
+    "pk": 5,
+    "fields": {
+      "title": "The Raven",
+      "author": "Edgar Allan Poe",
+      "text": "Once upon a midnight dreary, while I pondered, weak and weary, Over many a quaint and curious volume of forgotten lore— While I nodded, nearly napping, suddenly there came a tapping, As of some one gently rapping, rapping at my chamber door. \"'Tis some visitor,\" I muttered, \"tapping at my chamber door— Only this and nothing more.\"",
+      "writing_type": "poetic",
+      "style": "poetic",
+      "source_work": "The Raven",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "texts.textexcerpt",
+    "pk": 6,
+    "fields": {
+      "title": "Moby-Dick - Description",
+      "author": "Herman Melville",
+      "text": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation.",
+      "writing_type": "narrative",
+      "style": "narrative",
+      "source_work": "Moby-Dick",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "texts.textexcerpt",
+    "pk": 7,
+    "fields": {
+      "title": "Wuthering Heights - Dialogue",
+      "author": "Emily Brontë",
+      "text": "\"What do you mean?\" asked Heathcliff, \"and what are you about? Lie down and finish out the night, since you are here; but, for heaven's sake! don't repeat that horrid noise: nothing could excuse it, unless you were having your throat cut!\"\n\"If the little fiend had got in at the window, she probably would have strangled me!\" I returned.",
+      "writing_type": "dialogue",
+      "style": "dialogue",
+      "source_work": "Wuthering Heights",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "texts.textexcerpt",
+    "pk": 8,
+    "fields": {
+      "title": "1984 - Descriptive Opening",
+      "author": "George Orwell",
+      "text": "It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him.",
+      "writing_type": "descriptive",
+      "style": "descriptive",
+      "source_work": "1984",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "texts.textexcerpt",
+    "pk": 9,
+    "fields": {
+      "title": "Paradise Lost - Poetic",
+      "author": "John Milton",
+      "text": "Of Man's first disobedience, and the fruit Of that forbidden tree whose mortal taste Brought death into the World, and all our woe, With loss of Eden, till one greater Man Restore us, and regain the blissful seat, Sing, Heavenly Muse.",
+      "writing_type": "poetic",
+      "style": "poetic",
+      "source_work": "Paradise Lost",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "texts.textexcerpt",
+    "pk": 10,
+    "fields": {
+      "title": "Frankenstein - Expository",
+      "author": "Mary Shelley",
+      "text": "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings. I arrived here yesterday, and my first task is to assure my dear sister of my welfare and increasing confidence in the success of my undertaking.",
+      "writing_type": "narrative",
+      "style": "expository",
+      "source_work": "Frankenstein",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  }
+]
